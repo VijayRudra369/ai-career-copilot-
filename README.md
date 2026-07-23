@@ -20,7 +20,7 @@ It turns a simple "how good is my resume for this job?" question into an actiona
 
 ## 🖼️ Workflow Structure
 
-![Workflow Diagram](workflow.png.png)
+![Workflow Diagram](workflow.png)
 
 On form submission → Extract from File → Basic LLM Chain → Show Results
 │
